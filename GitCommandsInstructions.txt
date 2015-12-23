@@ -1,0 +1,9 @@
+git clone <repo_url> -- clone a repo locally
+git pull -- To get online changes locally
+
+1. git add -A : Add All files to Git.
+2. git commit -m "MSG" : Make a commit locally
+3. git push -u origin master
+
+git status : To see Status of files.
+
